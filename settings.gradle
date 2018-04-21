@@ -1,0 +1,3 @@
+include 'localdesigner-app'
+include 'localdesigner-content'
+include 'localdesigner-config'

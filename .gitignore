@@ -1,0 +1,5 @@
+.idea
+.lazybones
+localdesigner.iml
+node_modules
+yarn.lock
