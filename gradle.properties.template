@@ -3,7 +3,7 @@ sling_url=http://sling:8080
 sling_username=admin
 sling_password=admin
 
-organization=LocalDesigner
+organization=Whistlepost
 projectName=LocalDesigner
 projectId=localdesigner
 projectUrl=http://localdesigner.com.au
@@ -17,3 +17,8 @@ mongo.connectionString=mongo:27017
 mongo.database=sling
 mongo.collection=resources
 mongo.provider.roots=articles
+
+docker_apiUsername=
+docker_apiPassword=
+docker_apiEmail=
+docker_push=false
